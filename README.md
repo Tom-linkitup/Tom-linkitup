@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tom-linkitup&label=Profile%20views&color=0e75b6&style=flat" alt="tom-linkitup" /> </p>
 
-- 🔭 I’m currently working on [Full-Stack Ecommerce Website](https://tom-linkitup.github.io/ecommerce-app-frontend/)
+- 🔭 I’m currently working on [Full-Stack Ecommerce Website](https://tom-linkitup.github.io/ecommerce-app-frontend/) and [Voice Recorder](https://tom-linkitup.github.io/voice-recorder/)
 
 - 🌱 I’m currently learning **react, typescript**
 
